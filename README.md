@@ -1,4 +1,4 @@
 # colourboxes
-tutorial app - https://developer.android.com/codelabs/kotlin-android-training-linear-layout?index=..%2F..android-kotlin-fundamentals#0
+tutorial app - https://developer.android.com/codelabs/kotlin-android-training-constraint-layout#10
 
 layout, styling and basic interactions
